@@ -1,0 +1,1121 @@
+# Webalizer V2.23-08 Incremental Data - 06/25/2018 19:24:21
+2018 6 25 19 24 21
+130719 93024 96 74 200 57 294202707 115954 406 0 0 0
+19 568 12614 1 25
+11331 6104 19341088 2 11029 7 0 0
+25 22 196618 2 3 2 0 0
+48 1 70482 2 45 1 0 0
+11227 6068 20423542 6 10816 14 0 0
+12102 6255 20306618 5 11917 7 0 0
+13456 7184 23179609 5 13110 15 0 0
+853 751 3469709 7 541 11 0 0
+2352 2250 14100327 7 1845 10 0 0
+2 1 5530 1 1 1 0 0
+20 17 63692 4 6 3 0 0
+2238 2084 4386568 6 1893 12 0 0
+3100 2178 6271169 11 2814 13 0 0
+1416 1278 12179509 7 939 11 0 0
+6748 5646 6661410 3 6579 5 0 0
+0 0 0 0 0 0 0 0
+62 59 399025 4 4 3 0 0
+36 27 225165 2 9 4 0 0
+1518 1394 4994207 8 1115 14 0 0
+1746 1283 8032684 5 981 12 0 0
+9052 8124 19966952 2 7153 21 0 0
+4085 3582 6920224 9 3369 15 0 0
+29203 26645 88023363 29 22564 146 0 0
+7202 4348 10123829 15 7134 23 0 0
+1574 957 2639752 14 1513 14 0 0
+11323 6766 22221635 19 10574 43 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+651 638 630232 599 0 0
+254 248 332792 226 0 0
+482 458 410629 453 0 0
+16 16 49624 10 0 0
+55 43 244213 10 0 0
+57 12 57431 48 0 0
+4 2 7269 3 0 0
+180 90 277547 180 0 0
+1390 879 2060540 1337 0 0
+4602 3441 8608168 4170 0 0
+13157 9170 27827519 11618 0 0
+10052 6619 24097615 9480 0 0
+8307 4748 14365727 8005 0 0
+6779 4096 11156150 6471 0 0
+8172 5018 14856292 7595 0 0
+21774 17135 54338505 18042 0 0
+19321 14278 63287444 16137 0 0
+15681 11359 34797471 13673 0 0
+13994 10173 29526347 12396 0 0
+3610 2696 4497834 3445 0 0
+71 67 283551 31 0 0
+778 706 1148676 711 0 0
+588 516 431884 585 0 0
+744 616 909247 729 0 0
+0
+0
+0
+93024
+0
+0
+0
+0
+0
+0
+0
+3
+33444
+0
+62
+0
+0
+0
+0
+0
+0
+4153
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+33
+0
+0
+0
+0
+0
+# -urls- 
+/assets/js/modules/materialadmin/core/cache/63d0445130d69b2868a8d28c93309746.js
+0 214 0 1170531 0 0 0 0
+/assets/css/modules/materialadmin/css/theme-default/materialadminb0e2.css
+0 239 0 5851759 0 0 0 0
+/xcrud/plugins/jquery.min.js
+0 165 0 5492062 0 0 0 0
+/files/ActivityReport/EmployeeActivitySummary/2018_06_01_to_2018_06_20.xlsx
+0 1 0 11183 0 0 0 0
+/assets/css/modules/materialadmin/css/fonts/fontawesome-webfonte0a5.woff
+0 1 0 71931 0 0 0 0
+/assets/myjs/common.js
+0 1 0 702 0 0 0 0
+/assets/css/modules/materialadmin/css/theme-default/libs/morris/morris.core5e0a.css
+0 237 0 176481 0 0 0 0
+/assets/css/modules/materialadmin/css/theme-default/libs/toastr/toastr9fec.css
+0 237 0 646328 0 0 0 0
+/assets/myjs/dashboard.js
+0 123 0 119575 0 0 0 0
+/phpmyadmin/
+0 19 0 86152 0 0 0 0
+/files/ActivityReport/EmployeeActivitySummary/2018_02_01_to_2018_06_22.xlsx
+0 1 0 28541 0 0 0 0
+/assets/css/modules/materialadmin/css/fonts/glyphicons-halflings-regular.woff2
+0 194 0 3482480 0 0 0 0
+/assets/js/modules/materialadmin/libs/spin.js/spin.min.js
+0 215 0 542883 0 0 0 0
+/assets/css/modules/materialadmin/css/theme-default/bootstrap94be.css
+0 254 0 5709509 0 0 0 0
+/assets/css/mycustom.css
+0 236 0 168162 0 0 0 0
+/xcrud/plugins/xcrud.js
+0 162 0 1648327 0 0 0 0
+/phpmyadmin/js/get_image.js.php
+0 9 0 63583 0 1 0 0
+/xcrud/plugins/jquery-ui/images/ui-bg_glass_75_dadada_1x400.png
+1 140 0 93507 0 0 0 0
+/xcrud/plugins/jcrop/jquery.Jcrop.min.js
+0 163 0 1054579 0 0 0 0
+/assets/myjs/attendance.js
+0 1 0 1023 0 0 0 0
+/files/ActivityReport/EmployeeActivitySummary/2018_06_01_to_2018_06_21.xlsx
+0 1 0 11417 0 0 0 0
+/assets/css/modules/materialadmin/css/theme-default/libs/wizard/wizardfa6c.css
+0 196 0 302826 0 0 0 0
+/assets/js/image-crop.js
+0 216 0 2140602 0 0 0 0
+/xcrud/themes/bootstrap/loading.gif
+1 186 0 1726217 0 0 0 0
+/assets/myjs/versioncontrol.js
+0 11 0 9658 0 0 0 0
+/assets/myjs/activityreport.js
+0 6 0 6969 0 0 0 0
+/xcrud/plugins/jquery-ui/images/ui-bg_highlight-soft_75_cccccc_1x100.png
+1 136 0 92726 0 0 0 0
+/assets/js/angular-datepicker.js
+0 212 0 1014609 0 0 0 0
+/xcrud/plugins/jquery-ui/images/ui-bg_glass_75_e6e6e6_1x400.png
+1 134 0 88881 0 0 0 0
+/phpmyadmin/themes/pmahomme/jquery/jquery-ui-1.9.2.custom.css
+0 11 0 73013 0 0 0 0
+/assets/js/modules/materialadmin/libs/bootstrap/bootstrap.min.js
+0 216 0 2136029 0 0 0 0
+/assets/js/modules/materialadmin/core/demo/Demo.js
+0 213 0 528868 0 0 0 0
+/assets/js/modules/materialadmin/libs/autosize/jquery.autosize.min.js
+0 210 0 397726 0 0 0 0
+/assets/css/angular-datepicker.css
+0 236 0 391575 0 0 0 0
+/assets/css/modules/materialadmin/css/fonts/glyphicons-halflings-regular.woff
+0 1 0 23847 0 0 0 0
+/phpmyadmin/js/get_scripts.js.php
+0 19 0 19942551 4 1 0 0
+/assets/js/modules/materialadmin/libs/toastr/toastr.js
+0 212 0 698537 0 0 0 0
+/assets/myjs/login.js
+0 573 0 1157991 0 0 0 0
+/assets/css/angular-block-ui.min.css
+0 234 0 225723 0 0 0 0
+/assets/img/default.png
+1 213 0 529488 0 0 0 0
+/assets/css/modules/materialadmin/css/fonts/fontawesome-webfonte0a5.woff2
+0 194 0 10824857 0 0 0 0
+/assets/css/image-crop-styles.css
+0 236 0 271795 0 0 0 0
+/assets/js/jquery.min.js
+0 219 0 7288776 0 0 0 0
+/files/ActivityReport/EmployeeActivitySummary/2018_06_01_to_2018_06_22.xlsx
+0 1 0 11588 0 0 0 0
+/phpmyadmin/js/messages.php
+0 19 0 350530 0 0 0 0
+/xcrud/plugins/jquery-ui/jquery-ui.min.js
+0 165 0 10010784 0 0 0 0
+/phpmyadmin/favicon.ico
+0 8 0 154617 0 0 0 0
+/assets/img/logo.png
+1 173 0 6913790 0 0 0 0
+/xcrud/themes/bootstrap/xcrud.css
+0 176 0 396885 0 0 0 0
+/assets/js/angular-block-ui.min.js
+0 215 0 654871 0 0 0 0
+/xcrud/plugins/timepicker/jquery-ui-timepicker-addon.css
+0 176 0 125166 0 0 0 0
+/phpmyadmin/phpmyadmin.css.php
+0 19 0 373926 0 0 0 0
+/
+0 76920 0 128499623 386 292 0 0
+/assets/js/modules/materialadmin/libs/jquery/jquery-migrate-1.2.1.min.js
+0 214 0 758591 0 0 0 0
+/assets/myjs/activity.js
+0 558 0 598510 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/logo_right.png
+1 7 0 34700 0 0 0 0
+/assets/myjs/review.js
+0 222 0 357139 0 0 0 0
+/xcrud/xcrud_ajax.php
+0 5443 0 8017233 15 33 0 0
+/phpmyadmin/themes/dot.gif
+1 7 0 3136 0 0 0 0
+/assets/js/modules/materialadmin/libs/nanoscroller/jquery.nanoscroller.min.js
+0 214 0 820179 0 0 0 0
+/xcrud/plugins/jquery-ui/images/ui-bg_glass_55_fbf9ee_1x400.png
+1 133 0 97734 0 0 0 0
+/xcrud/plugins/jquery-ui/images/ui-bg_flat_75_ffffff_40x100.png
+1 162 0 99075 0 0 0 0
+/assets/myjs/genrateuser.js
+0 12 0 11057 0 0 0 0
+/assets/css/modules/materialadmin/css/theme-default/material-design-iconic-font.mine7ea.css
+0 238 0 1772967 0 0 0 0
+/xcrud/plugins/jcrop/jquery.Jcrop.min.css
+0 183 0 199669 0 0 0 0
+/xcrud/plugins/timepicker/jquery-ui-timepicker-addon.js
+0 163 0 2939340 0 0 0 0
+/xcrud/plugins/jquery-ui/images/ui-bg_glass_65_ffffff_1x400.png
+1 141 0 86379 0 0 0 0
+/assets/css/modules/materialadmin/css/fonts/Material-Design-Iconic-Fontf700.woff
+0 194 0 27266049 0 0 0 0
+/assets/css/modules/materialadmin/css/theme-default/libs/rickshaw/rickshawd56b.css
+0 236 0 615861 0 0 0 0
+/xcrud/plugins/jquery-ui/images/ui-icons_222222_256x240.png
+1 138 0 984412 0 0 0 0
+/phpmyadmin/js/whitelist.php
+0 19 0 54165 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/sprites.png
+1 11 0 471539 0 0 0 0
+/assets/css/modules/materialadmin/css/theme-default/font-awesome.min753e.css
+0 238 0 1409297 0 0 0 0
+/xcrud/plugins/jquery-ui/jquery-ui.min.css
+0 184 0 1210557 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+157.38.230.151
+0 36 30 95111 2 1529606100 0 0
+/
+159.203.81.93
+0 2 1 58075 1 1529847321 0 0
+/
+35.182.182.78
+0 1 1 867 1 1529951101 0 0
+/
+106.202.100.44
+0 92 46 143663 1 1529925617 0 0
+/
+107.170.96.6
+0 4 2 6183 4 1529874167 0 0
+/
+157.34.18.30
+0 34 32 209481 1 1529682730 0 0
+/
+66.249.79.102
+0 13 12 76343 0 0 0 0
+-
+66.249.69.195
+0 2 2 5834 0 0 0 0
+-
+66.102.6.231
+0 10 9 64658 4 1529621947 0 0
+/
+5.16.70.84
+0 27 26 203197 1 1529111205 0 0
+/
+66.249.88.132
+0 7 7 47856 0 0 0 0
+-
+66.102.6.8
+0 2 1 5558 1 1529936991 0 0
+/
+54.165.90.203
+0 87 5 116534 7 1529720977 0 0
+/
+35.183.25.80
+0 1 1 849 1 1529848140 0 0
+/
+35.183.4.235
+0 1 1 851 1 1529906401 0 0
+/
+66.249.83.6
+0 2 2 45583 1 1529686915 0 0
+/
+66.249.64.7
+0 1 1 3283 1 1529316820 0 0
+/
+37.204.75.254
+0 27 26 204004 1 1528880212 0 0
+/
+64.233.173.18
+0 34 26 375254 1 1529682038 0 0
+/
+35.183.85.149
+0 1 1 867 1 1529751540 0 0
+/
+66.249.64.5
+0 5 3 9171 0 0 0 0
+-
+66.249.69.99
+0 2 1 3743 1 1528814702 0 0
+/
+66.249.79.104
+0 8 7 61490 2 1529138066 0 0
+/
+14.142.193.90
+0 115162 81104 264896513 261 1529954661 0 0
+/
+66.249.83.8
+0 1 1 3347 1 1529680942 0 0
+/
+94.180.224.177
+0 27 26 204174 1 1528764578 0 0
+/
+159.203.42.143
+0 6 1 23163 4 1529783799 0 0
+/
+157.55.39.237
+0 3 3 9886 3 1529714780 0 0
+/
+103.68.29.45
+0 42 40 437206 2 1529859546 0 0
+/
+157.55.39.188
+0 1 1 3304 1 1529409027 0 0
+/
+66.249.83.4
+0 1 1 42256 0 0 0 0
+-
+139.167.48.100
+0 5 5 3210 1 1527874207 0 0
+/
+66.249.88.134
+0 8 8 58490 1 1529921326 0 0
+/
+66.249.66.200
+0 14 11 97261 3 1528795591 0 0
+-
+66.102.6.229
+0 11 10 49831 1 1528743524 0 0
+/
+103.38.71.82
+0 598 402 1288711 5 1528886607 0 0
+/
+106.202.46.232
+0 240 218 846225 2 1529682563 0 0
+/
+47.30.134.88
+0 224 112 338155 1 1529742812 0 0
+/
+223.181.35.38
+0 66 55 133545 2 1529592023 0 0
+/xcrud/xcrud_ajax.php
+35.182.236.118
+0 1 1 855 1 1529915041 0 0
+/
+47.31.86.172
+0 52 26 78583 1 1529876083 0 0
+/
+95.28.174.119
+0 27 26 204192 1 1529271954 0 0
+/
+66.249.88.69
+0 21 21 153367 1 1529682175 0 0
+/
+223.225.100.27
+0 143 143 96184 1 1529682039 0 0
+/
+54.175.74.27
+0 5 2 12907 1 1529931912 0 0
+/
+66.249.66.195
+0 73 68 399021 6 1529731690 0 0
+/
+61.246.178.97
+0 78 68 636630 2 1529931551 0 0
+/
+117.201.89.74
+0 833 755 1730997 6 1529687795 0 0
+/
+66.249.88.70
+0 17 17 170359 1 1529680346 0 0
+/
+66.249.64.3
+0 5 5 21804 0 0 0 0
+-
+106.223.239.245
+0 39 37 435787 1 1529595905 0 0
+/
+223.225.36.249
+0 22 21 181810 1 1527953670 0 0
+/
+100.43.91.128
+0 6 3 133431 0 0 0 0
+-
+47.30.145.159
+0 597 296 894921 1 1529943581 0 0
+/
+95.84.154.127
+0 23 22 189266 1 1528992743 0 0
+/
+66.102.6.4
+0 1 0 2222 0 0 0 0
+-
+5.228.36.121
+0 4 4 13937 0 0 0 0
+-
+42.108.173.207
+0 3 3 2126 1 1529660792 0 0
+/
+66.249.88.130
+0 11 11 95928 0 0 0 0
+-
+66.249.88.72
+0 18 18 172874 2 1528477594 0 0
+/
+66.102.6.227
+0 21 14 119464 3 1529317545 0 0
+/
+139.5.198.20
+0 5856 4558 6743203 11 1529915251 0 0
+/
+157.55.39.26
+0 1 0 2222 0 0 0 0
+-
+35.182.49.58
+0 1 1 853 1 1529755201 0 0
+/
+223.230.193.185
+0 1108 554 1729638 1 1529837117 0 0
+/
+37.144.56.69
+0 27 26 204088 1 1528919653 0 0
+/
+162.243.69.215
+0 4 3 5869 4 1529755466 0 0
+/
+112.196.168.42
+0 133 117 212045 1 1529848330 0 0
+/
+66.249.69.200
+0 2 1 5521 1 1529856559 0 0
+/
+47.31.84.130
+0 1328 664 2046815 1 1528277208 0 0
+/
+103.48.50.127
+0 51 47 2479933 1 1528476812 0 0
+/phpmyadmin/js/get_scripts.js.php
+47.31.97.247
+0 34 28 49777 1 1529529367 0 0
+/
+84.201.133.99
+0 15 8 41985 8 1529338130 0 0
+/
+35.182.113.85
+0 2 1 3207 1 1529751841 0 0
+/
+64.233.173.16
+0 25 19 225841 1 1529681908 0 0
+/
+138.197.202.197
+0 1 0 942 1 1529751848 0 0
+/
+64.233.173.17
+0 35 29 127089 1 1529681920 0 0
+/
+106.211.15.154
+0 265 242 862361 1 1528885311 0 0
+/
+66.249.69.104
+0 1 1 2751 0 0 0 0
+-
+159.203.196.79
+0 3 0 2824 3 1529949365 0 0
+/
+106.223.50.60
+0 87 74 274818 1 1529949504 0 0
+/
+5.255.250.78
+0 1 0 2254 0 0 0 0
+-
+27.7.222.203
+0 10 10 4848 1 1528493658 0 0
+/
+45.77.236.70
+0 761 758 331229 1 1529691903 0 0
+/
+66.102.6.6
+0 1 1 3347 1 1529883246 0 0
+/
+180.151.76.194
+0 2070 2006 2618526 1 1529687376 0 0
+/
+66.249.66.198
+0 42 37 165719 4 1529721721 0 0
+/
+47.30.155.242
+0 15 12 22757 1 1529684268 0 0
+/
+47.31.103.197
+0 5 2 7564 1 1529925280 0 0
+/
+66.249.69.102
+0 2 2 24185 0 0 0 0
+-
+184.72.115.35
+0 3 1 5857 1 1529931911 0 0
+/
+66.249.69.198
+0 3 2 11671 0 0 0 0
+-
+66.249.79.99
+0 14 14 57995 0 0 0 0
+-
+42.108.189.135
+0 1 1 408 1 1529660792 0 0
+/
+157.55.39.133
+0 1 0 2222 0 0 0 0
+-
+157.34.14.106
+0 3 3 1946 1 1529687649 0 0
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+159.203.81.93
+0 1 1 57129 0 0 0 0
+-
+35.182.182.78
+0 1 1 867 1 1529951101 0 0
+/
+106.202.100.44
+0 92 46 143663 1 1529925617 0 0
+/
+66.249.88.132
+0 7 7 47856 0 0 0 0
+-
+66.102.6.8
+0 2 1 5558 1 1529936991 0 0
+/
+35.183.4.235
+0 1 1 851 1 1529906401 0 0
+/
+14.142.193.90
+0 10370 6199 19873260 28 1529954661 0 0
+/
+66.249.88.134
+0 8 8 58490 1 1529921326 0 0
+/
+35.182.236.118
+0 1 1 855 1 1529915041 0 0
+/
+54.175.74.27
+0 5 2 12907 1 1529931912 0 0
+/
+61.246.178.97
+0 78 68 636630 2 1529931551 0 0
+/
+100.43.91.128
+0 2 1 44477 0 0 0 0
+-
+47.30.145.159
+0 597 296 894921 1 1529943581 0 0
+/
+66.249.88.130
+0 11 11 95928 0 0 0 0
+-
+139.5.198.20
+0 51 46 59056 1 1529915251 0 0
+/
+159.203.196.79
+0 1 0 948 1 1529949365 0 0
+/
+106.223.50.60
+0 87 74 274818 1 1529949504 0 0
+/
+47.31.103.197
+0 5 2 7564 1 1529925280 0 0
+/
+184.72.115.35
+0 3 1 5857 1 1529931911 0 0
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://activity.invetechsolutions.com/index.php/activity/viewactivity/01-05-2018/30-05-2018/23
+1 13
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/02-05-2018
+1 414
+http://activity.invetechsolutions.com/index.php/activity/viewactivity/01-06-2018/22-06-2018/53
+1 5
+http://activity.invetechsolutions.com/index.php/activity/attendance/13-06-2018
+1 8
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/22-05-2018
+1 200
+http://activity.invetechsolutions.com/index.php/activity/viewactivity/01-06-2018/20-06-2018/53
+1 6
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/14-03-2018
+1 40
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/29-06-2018
+1 6
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/0-05-2018
+1 41
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/18-0 6-2018
+1 6
+http://activity.invetechsolutions.com/index.php/activity/viewactivitysummary/01-06-2018/30-06-2018/72
+1 4
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/
+1 313
+http://activity.invetechsolutions.com/index.php/activity/viewactivity/04-06-2018/11-06-2018/41
+1 5
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/22-06-2018
+1 1184
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/29-05-2018
+1 216
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/04-04-2018
+1 937
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/10-02-2018
+1 6
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/25-06-2018
+1 98
+http://activity.invetechsolutions.com/index.php/activity/attendance/14-06-2018
+1 8
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/08-06-2018
+1 1858
+http://activity.invetechsolutions.com/index.php/activity/viewactivitysummary/2018-01-01/2018-01-30/101
+1 13
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/13-06-2018
+1 943
+http://activity.invetechsolutions.com/index.php/activity/manageversion/20
+1 3
+http://activity.invetechsolutions.com/index.php/activity/viewactivitysummary/01-05-2018/31-05-2018/4
+1 4
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/1-05-2018
+1 6
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/19-05-2018
+1 54
+http://activity.invetechsolutions.com/index.php/activity/addemployee
+1 116
+http://activity.invetechsolutions.com/index.php/activity/viewactivitysummary/01-02-2018/22-06-2018/6
+1 4
+http://activity.invetechsolutions.com/index.php
+1 32
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/16-05-2018
+1 272
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/18-05-2018
+1 137
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/01-04-2018
+1 28
+http://activity.invetechsolutions.com/index.php/testing/manageproject/20
+1 5
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/05-05-2018
+1 25
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/26-04-2018
+1 50
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/19-06-2018
+1 1110
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/23-04-2018
+1 60
+http://activity.invetechsolutions.com/index.php/activity/manageversion/152/1
+1 5
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/30-06-2018
+1 6
+http://activity.invetechsolutions.com/index.php/
+1 2017
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/31-03-2018
+1 20
+http://activity.invetechsolutions.com/index.php/activity/viewactivitysummary
+1 40
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/25-04-2018
+1 48
+http://activity.invetechsolutions.com/index.php/review/aprovereview
+1 1779
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/28-02-2018
+1 30
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/23-03-2018
+1 15
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/22-03-2018
+1 6
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/20-04-2018
+1 155
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/13-02-2018
+1 4
+http://activity.invetechsolutions.com/xcrud/themes/bootstrap/xcrud.css
+1 185
+http://activity.invetechsolutions.com/index.php/activity/manageversion/160
+1 3
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/05-06-2018
+1 1217
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/13-03-2018
+1 9
+http://activity.invetechsolutions.com/index.php/activity/viewactivitysummary/01-05-2018/31-05-2018/57
+1 7
+http://activity.invetechsolutions.com/index.php/activity/viewactivity/01-06-2018/22-06-2018/63
+1 5
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/11-06-2018
+1 2016
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/06-06-2018
+1 1415
+http://activity.invetechsolutions.com/index.php/activity/attendance/18-06-2018
+1 9
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/145-06-2018
+1 3
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/02-06-2018
+1 214
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/13-05-2018
+1 70
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/12-06-2018
+1 1414
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/06-05-2018
+1 56
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/12-05-2018
+1 73
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/22-04-2018
+1 16
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/21-04-2018
+1 3
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/27-04-2018
+1 42
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/01-05-2018
+1 412
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/25-05-2018
+1 44479
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/09-05-2018
+1 156
+http://activity.invetechsolutions.com/index.php/activity/viewactivity/20-06-2018/20-06-2018/17
+1 5
+http://activity.invetechsolutions.com/index.php/activity/viewactivity/01-06-2018/11-06-2018/16
+1 5
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/03-06-2018
+1 65
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/0-03-2018
+1 4
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/01-02-2018
+1 8
+http://activity.invetechsolutions.com/index.php/activity/userid
+1 108
+https://www.google.com/
+0 4
+- (Direct Request)
+0 2355
+http://activity.invetechsolutions.com/index.php/testing/company
+1 4398
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/15-06-2018
+1 477
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/04-05-2018
+1 93
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/17-06-2018
+1 66
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/30-04-2018
+1 54
+http://activity.invetechsolutions.com/index.php/login/resetpassword
+1 2
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/24-03-2018
+1 5
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/18-06-2018
+1 1098
+http://activity.invetechsolutions.com/phpmyadmin/phpmyadmin.css.php
+1 1
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/11-05-2018
+1 180
+http://activity.invetechsolutions.com/index.php/activity/viewactivity/20-06-2018/20-06-2018/16
+1 6
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/23-02-2018
+1 5
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/23-05-2018
+1 176
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/24-04-2018
+1 46
+http://activity.invetechsolutions.com/index.php/staffapp/
+1 26
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/18-04-2018
+1 688
+http://activity.invetechsolutions.com/index.php/activity/viewactivitysummary/01-06-2018/30-06-2018/4
+1 5
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/01-03-2018
+1 46
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/1-04-2018
+1 7
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/12-03-2018
+1 6
+http://activity.invetechsolutions.com/assets/css/modules/materialadmin/css/theme-default/material-design-iconic-font.mine7ea.css
+1 193
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/07-06-2018
+1 1063
+http://activity.invetechsolutions.com/index.php/testing/manageproject/148
+1 2
+http://activity.invetechsolutions.com/index.php/activity/addactivity
+1 5
+http://activity.invetechsolutions.com/index.php/review/selfreview
+1 857
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/17-03-2018
+1 317
+http://activity.invetechsolutions.com/index.php/activity/viewactivity/01-06-2018/18-06-2018/66
+1 5
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/02-07-2018
+1 3
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/24-05-2018
+1 168
+http://activity.invetechsolutions.com/index.php/activity/viewactivitysummary/01-05-2018/31-05-2018/33
+1 17
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/204-2018
+1 5
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/0-06-2018
+1 3
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/15-02-2018
+1 3
+http://activity.invetechsolutions.com/index.php/activity/viewactivity/22-05-2018/22-06-2018/33
+1 8
+http://activity.invetechsolutions.com/index.php/activity/viewactivity/06-06-2018/20-06-2018/17
+1 5
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/10-04-2018
+1 16
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/25-02-2018
+1 3
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/30-03-2018
+1 5
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/21-06-2018
+1 1381
+http://activity.invetechsolutions.com/index.php/testing/manageproject
+1 23
+http://activity.invetechsolutions.com/index.php/activity/manageversion/160/1
+1 4
+http://activity.invetechsolutions.com/index.php/activity/manageversion
+1 65
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry
+1 28716
+http://activity.invetechsolutions.com/
+1 3707
+http://activity.invetechsolutions.com/index.php/activity/adddesignation
+1 6
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/05-04-2018
+1 2
+http://activity.invetechsolutions.com/xcrud/plugins/jquery-ui/jquery-ui.min.css
+1 983
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/08-05-2018
+1 139
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/31-05-2018
+1 301
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/14-06-2018
+1 5038
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/16-06-2018
+1 3197
+http://activity.invetechsolutions.com/index.php/activity/manageversion/96
+1 7
+http://activity.invetechsolutions.com/index.php/activity/viewactivitysummary/01-05-2017/31-05-2017/33
+1 4
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/09-03-2018
+1 12
+198.50.238.88
+0 2
+http://activity.invetechsolutions.com/assets/css/modules/materialadmin/css/theme-default/font-awesome.min753e.css
+1 194
+http://activity.invetechsolutions.com/index.php/testing/manageproject/159
+1 2
+http://activity.invetechsolutions.com/index.php/activity/attendance
+1 13
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/05-03-2018
+1 16
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/18-0-2018
+1 4
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/07-05-2018
+1 192
+http://activity.invetechsolutions.com/index.php/activity/manageversion/96/1
+1 4
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/31-04-2018
+1 3
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/23-06-2018
+1 100
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/04-06-2018
+1 1459
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/24-2018
+1 2
+http://activity.invetechsolutions.com/index.php/activity/viewactivitysummary/2018-01-01/2018-01-30/12
+1 4
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/27-02-2018
+1 6
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/11-04-2018
+1 4
+http://activity.invetechsolutions.com/index.php/activity/manageversion/128
+1 4
+http://activity.invetechsolutions.com/index.php/activity/viewactivity
+1 31
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/26-02-2018
+1 11
+https://www.google.co.in/
+0 2
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/20-06-2018
+1 1165
+http://activity.invetechsolutions.com/index.php/testing/manageproject/64
+1 1
+http://activity.invetechsolutions.com/index.php/activity/manageversion/20/1
+1 3
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/17-05-2018
+1 168
+http://activity.invetechsolutions.com/index.php/activity/viewactivity/01-06-2018/22-06-2018/62
+1 6
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/28-04-2018
+1 13
+http://activity.invetechsolutions.com/index.php/activity/manageversion/152
+1 3
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/28-05-2018
+1 231
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/35-02-2018
+1 3
+http://activity.invetechsolutions.com/index.php/activity/viewactivitysummary/01-06-2018/30-06-2018/1
+1 5
+http://yandex.ru/yandsearch
+0 4
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/07-03-2018
+1 10
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/28-06-2018
+1 5
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/27-05-2018
+1 75
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/20-05-2018
+1 51
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/17-04-2018
+1 16
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/02-04-2018
+1 352
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/-04-2018
+1 3
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/30-05-2018
+1 215
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/26-05-2018
+1 70
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/10-06-2018
+1 74
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/2-04-2018
+1 36
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/21-03-2018
+1 3
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/10-05-2018
+1 147
+android-app://com.google.android.gm
+0 1
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/14-05-2018
+1 159
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/01-02-1970
+1 3
+http://activity.invetechsolutions.com/index.php/activity/manageversion/3/1
+1 4
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/09-06-2018
+1 91
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/03-05-2018
+1 86
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/4-04-2018
+1 3
+http://activity.invetechsolutions.com/index.php/activity/viewactivity/01-06-2018/20-06-2018/85
+1 6
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/01-06-2018
+1 2109
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/2-05-2018
+1 3
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/15-05-2018
+1 208
+http://activity.invetechsolutions.com/index.php/activity/viewactivitysummary/2018-01-01/2018-01-30/33
+1 5
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/01-01-1970
+1 7
+http://activity.invetechsolutions.com/index.php/activity/viewactivitysummary/01-05-2018/20-06-2018/16
+1 5
+http://activity.invetechsolutions.com/index.php/activity/manageversion/3
+1 13
+http://activity.invetechsolutions.com/index.php/activity/manageversion/11
+1 3
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/27-06-2018
+1 10
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/20-02-2018
+1 3
+http://yandex.ru/clck/jsredir
+0 8
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/24-06-2018
+1 225
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/09-02-2018
+1 3
+http://activity.invetechsolutions.com/index.php/activity/viewactivity/22-06-2018/22-06-2018/62
+1 6
+http://activity.invetechsolutions.com/assets/css/modules/materialadmin/css/theme-default/bootstrap94be.css
+1 195
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/29-04-2018
+1 22
+http://activity.invetechsolutions.com/index.php/activity/empactivityentry/21-05-2018
+1 2468
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36
+0 11728
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.62 Safari/537.36
+0 119
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36
+0 1004
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+0 27
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0
+0 9284
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/65.0.3325.181 Chrome/65.0.3325.181 Saf
+0 45208
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36
+0 474
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.170 Safari/537.36
+0 1176
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36
+0 542
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+0 27
+ia_archiver
+0 87
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:33.0) Gecko/20100101 Firefox/33.0
+0 20
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 26
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 6
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+0 391
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+0 53
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36
+0 7943
+Mozilla/5.0 (Linux; Android 7.1.2; Redmi 4A Build/N2G47H; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.
+0 4
+Mozilla/5.0 (Linux; Android 6.0.1; Redmi Note 3 Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/6
+0 47
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Safari/537.36
+0 57
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/66.0.3359.181 Chrome/66.0.3359.181 Saf
+0 22
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+0 3222
+Googlebot-Image/1.0
+0 9
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+0 159
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 27
+Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1
+0 26
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+0 2599
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/601.5.17 (KHTML, like Gecko) Version/9.1 Safari/601.5.17
+0 148
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.89 Safari/537.36
+0 7
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36
+0 2696
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+0 316
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+0 1359
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+0 26
+Mozilla/5.0 (Linux; Android 7.0; Redmi Note 4 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.81 Mobile
+0 237
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+0 1108
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.
+0 27
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36
+0 12544
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile S
+0 95
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+0 90
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0
+0 15164
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 22
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36
+0 53
+Mozilla/5.0 (Linux; Android 7.0; SM-G615F Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.33
+0 5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36
+0 5795
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon
+0 20
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36
+0 2590
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.1.25 (KHTML, like Gecko) Version/8.0 Safari/600.1.25
+0 8
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+0 240
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36
+0 186
+Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Saf
+0 4
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0
+0 236
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 Google (+https://dev
+0 8
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.1
+0 27
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/53.0.2785.143 Chrome/53.0.2785.143 Saf
+0 27
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:60.0) Gecko/20100101 Firefox/60.0
+0 37
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.62 Safari/537.36
+0 779
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:50.0) Gecko/20100101 Firefox/50.0
+0 2556
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

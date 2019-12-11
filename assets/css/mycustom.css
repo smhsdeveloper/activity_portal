@@ -1,0 +1,24 @@
+.myCustomGridHeading{
+    font-size: 21px;
+    padding-top: 2px;
+}
+
+.my-select{
+    width:100%;
+    padding:7px;
+}
+.upload_hover{ 
+    background: rgba(31, 31, 31, 0.81);
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 12px;
+    right: 0;
+    color: white;
+    text-align: center;
+    padding: 110px 0 0 0;
+    font-size: 22px;
+    cursor: pointer;
+    height: 237px;
+    width: 237px;
+}
