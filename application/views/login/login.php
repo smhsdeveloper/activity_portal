@@ -84,7 +84,7 @@
 
 
 
-<body ng-app="login" ng-controller="loginController" class="menubar-hoverable header-fixed " style="background-image:url('../assets/img/portfolio-item581.jpg');">
+<body ng-app="login" ng-controller="loginController" class="menubar-hoverable header-fixed " style="background-image:url('../activity/assets/img/portfolio-item581.jpg');">
 
     <!-- BEGIN LOGIN SECTION -->
     <section class="section-account" >
