@@ -66,7 +66,7 @@
                         </span>
                     </a>
                     <ul class="dropdown-menu animation-dock">
-                        <li><a href="javascript:void(0);"><span class="badge style-danger pull-right"></span>My Profile</a></li>
+                        <!-- <li><a href="javascript:void(0);"><span class="badge style-danger pull-right"></span>My Profile</a></li> -->
                         <li class="divider"></li>
                         <li><a href="<?php echo base_url();?>index.php/login/resetpassword"><i class="fa fa-fw fa-key text-primary"></i>Change Password</a></li>
                         <li><a href="<?php echo site_url('login/logout'); ?>"><i class="fa fa-fw fa-power-off text-danger"></i> Logout</a></li>
