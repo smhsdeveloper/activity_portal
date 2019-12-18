@@ -92,7 +92,7 @@ include(APPPATH . 'config/database' . EXT);
                                                 </div>
                                                 <?php if ($usertype == 'RM' || $usertype == 'ADMIN') { ?>
                                                     <div class="col-sm-1">
-                                                        <a href="#"  class="btn btn-sm btn-info">RM Review</a>
+                                                        <a href="<?php echo base_url(); ?>index.php/review/aprovereview"  class="btn btn-sm btn-info">RM Review</a>
                                                     </div>
                                                     <div class="col-sm-3">
                                                         <p ng-show="showRmDiv" id="rmtimer" class="text-center"></p>
